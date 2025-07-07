@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://g佳.zl0009.top/'
+window.routerBase = 'https://gjia.zl0009.top/'
 window.settings = {
   // 站点名称
   title: 'G+小机场',
